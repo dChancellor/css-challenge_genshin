@@ -16,7 +16,7 @@ main {
   flex-flow:column nowrap;
   justify-content: center;
   align-items: center;
-  background-color: lightblue;
+  background-color: rgb(84, 126, 139);
   font-family: 'Ubuntu', sans-serif;
   gap:2rem;
 }
